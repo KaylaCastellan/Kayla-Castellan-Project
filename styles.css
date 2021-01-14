@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+}
+
+
+img{ 
+    width: 200px;
+}
+
+
+
+.green {
+    width: 200px;
+    height: 500px;
+    background-color: #00FFCC;
+    padding: 20px;
+    margin: 5px;
+    border: 1px solid black;
+}
+img{ 
+    width: 200px;
+}
+
+.pink {
+    width: 100px;
+    height: 500px;
+    background-color: #E4A4EE;
+    padding: 20px;
+    Margin: 5px;
+    border: 1px solid black ;
+}
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: #17D3FF;
+}
